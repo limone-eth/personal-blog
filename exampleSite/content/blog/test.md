@@ -37,4 +37,10 @@ La cultura ha anche impatto sulla vita negli uffici di AirBnB, dove alle persone
 
 Inoltre tra i benefit aziendali, ogni impiegato riceve 2000$ l’anno per soggiornare in uno degli appartamenti affittati dall’azienda. Questo per far si che **gli impiegati si sentano sempre collegati ai clienti**.
 
-Non a caso, in un sondaggio condotto di recente da Glassdoor, AirBnb ha scalzato Google dal suo record di “**miglior posto di lavoro al mondo**” e il suo CEO, Brian Chesky, ha ottenuto il 97% di valutazioni positive dai suoi impiegati.
+Non a caso, in un sondaggio condotto di recente da Glassdoor, AirBnB ha scalzato Google dal suo record di “**miglior posto di lavoro al mondo**” e il suo CEO, Brian Chesky, ha ottenuto il 97% di valutazioni positive dai suoi impiegati.
+
+## Le culture non sono tutte uguali
+
+Quello di AirBnB è solo un esempio. Una cultura che è valida per un'azienda potrebbe non esserlo per un'altra. Quello che funziona in AirBnB, non è detto che funzioni in Netflix o in Alibaba.   
+  
+Per sviluppare una propria cultura non basta imitare ciò che fanno gli altri; si può certamente imparare da loro, ma ogni azienda deve perfezionare nel tempo una serie di valori e procedure adatte alle proprie esigenze.
