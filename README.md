@@ -1,94 +1,160 @@
-# Easy Setup (Hugo + Netlify + Forestry)
-Build your website with kross hugo theme by following this easy steps (No Coding Required)
+# Tale
 
-<a href="http://bit.ly/meghna-hugo-installation" target="_blank" title="meghna hugo installation" rel="nofollow"><img width="100%" src="https://user-images.githubusercontent.com/37659754/70844354-4028be00-1e6a-11ea-8d84-02e9a25e7db8.png"></a>
+[![Build Status](https://travis-ci.com/EmielH/tale-hugo.svg?branch=master)](https://travis-ci.com/EmielH/tale-hugo)
 
-In this tutorial we will show you to make your website live without buying any hosting and touching a single line of code. We made this tutorial based on [meghna hugo](https://github.com/themefisher/meghna-hugo) but you can setup everithing like this.
+This is a port of the [Tale theme for Jekyll](https://github.com/chesterhow/tale) to Hugo. Tale is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://chesterhow.github.io/tale/). I did not design this theme; I only ported it from Jekyll to Hugo.
 
-### What you need !!
-
-1. Git acccount (Ex: Github, Gitlab etc ) . In our case we use github.
-2. [Netlify](https://bit.ly/netlify-account) account to host files and add custom domain .
-3. [Forestry](https://bit.ly/forestry-account) account to maintain whole project without code.
-
-
-### Step 1 : Fork or Clone repository
-
-First we will fork this [kross hugo](https://github.com/themefisher/kross-hugo) template.
-
-### Step 2 : Add your repository in Forestry
-
-Go to your [forestry](https://bit.ly/forestry-account)  account and click on `import your site now`. declare your config.toml file [`exampleSite`] and fill up basic settings .
-
-**Or just click this button for one click installation** [![import to forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=themefisher/kross-hugo&engine=hugo&version=0.60.1&config=exampleSite)
-
-Now mark everything as done, then go to configuration to change the base url . You can put any url but this have to similar as netlify . So for now put a name which you are going to put in netlify as netlify subdomain.
-
-### Step 3 : Setup and host website with Netlify
-
-Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) account and click add new site . Choose your git repository to import your website in netlify .  And now you can see the forked `kross hugo` theme. select it and follow the steps. Then go to `site settings` for change the site name and put your subdoamin name here what you puted on forestry as base url. save it and go to `deploy` from top menu, Wait a while and click on `site preview` or just simply go to the subdomain you puted as base url. **BOOM! Your site is live.** Now you can go to forestry and add, remove or customize every setting and content.
-
-> If you face any issue regarding the installation feel free to onen [open a new issue](https://github.com/themefisher/kross-hugo/issues)
-
-
-## Table of Contents
-
-- [Demo](#demo)
-- [Quick Start](#quick-start)
-- [Installation](#installation)
-- [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions-(paid))
-- [Licensing](#licensing)
-- [More Hugo Themes](https://themefisher.com/hugo-themes/)
-
-## Demo
-
-| Homepage  | About  | Blog  | Portfolio  | Contact  |
-|---|---|---|---|---|
-| ![Homepage](https://user-images.githubusercontent.com/37659754/58154295-1a9c5300-7c93-11e9-992c-ad8d2ff8d99f.png) | ![About](https://user-images.githubusercontent.com/37659754/58154317-28ea6f00-7c93-11e9-914b-b7e5f1cdab0e.png) | ![Blog](https://user-images.githubusercontent.com/37659754/58154339-369ff480-7c93-11e9-9568-53b7ebdc6b2d.png) | ![portfolio](https://user-images.githubusercontent.com/37659754/58154368-491a2e00-7c93-11e9-8900-f5a6abe0a61d.png) | ![contact](https://user-images.githubusercontent.com/37659754/58154403-57684a00-7c93-11e9-9cea-ea28253a6f6a.png) |
-
-**The images are only for demonstration purpose, Please don't use those images.**
-
-[Live Preview](http://demo.themefisher.com/kross-hugo/).
-
-## Quick Start
-Quick start options:
-
-- Clone the repo: `git clone https://github.com/themefisher/kross-hugo.git`.
-- [Download from Github](https://github.com/themefisher/kross-hugo/archive/master.zip).
-- [Download from themefisher website](https://themefisher.com/products/kross-creative-portfolio-template).
+![Tale screenshot](https://raw.githubusercontent.com/EmielH/tale-hugo/master/images/screenshot.png)
 
 ## Installation
-At the top we have shown an easy hugo installation. but still if you think you want to go with the traditional way then use the following commands:
+
+### 1. Install the theme
+
+If your site is also under version control using git, the easiest way to install this theme is to add it as a submodule. If you have not created a git repo for your project yet, you need to run `git init` beforehand. Inside the folder of your Hugo site, run the following command.
 
 ```
-$ git clone git@github.com:themefisher/kross-hugo.git
-$ cd kross-hugo/exampleSite/
-$ hugo server --themesDir ../..
+git submodule add https://github.com/EmielH/tale-hugo.git themes/tale
 ```
 
+Alternatively, you can clone the theme into your project.
 
-## Reporting Issues
+```
+git clone https://github.com/EmielH/tale-hugo.git themes/tale
+```
 
-We use GitHub Issues as the official bug tracker for the **Kross Theme**. Please Search [existing issues](https://github.com/themefisher/kross-hugo/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/kross-hugo/issues/new)
+### 2. Configure Hugo
 
-## Technical Support or Questions (Paid)
+Add the following line to `config.toml` to tell Hugo to use the theme.
 
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
+```
+theme = "tale"
+```
 
-## Licensing
+Alternatively, you can tell Hugo to use the theme with the `server` command.
 
-- Copyright 2020 Designed by [Themefisher](https://themefisher.com/) & Developed by [Gethugothemes](https://gethugothemes.com/)
-- Licensed under MIT (https://github.com/themefisher/kross-hugo/blob/master/LICENSE)
+```
+hugo server -t tale
+```
 
+### Additional information
 
-## Premium Themes
+For more information, read the official [setup guide](https://gohugo.io/overview/installing/) of Hugo.
 
-| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![Phantop](https://gethugothemes.com/wp-content/uploads/edd/2019/06/Phantom.jpg)](https://gethugothemes.com/products/phantom-hugo-theme/) | [![redlab](https://gethugothemes.com/wp-content/uploads/edd/2019/09/redlab-hugo-thumbnail.jpg)](https://gethugothemes.com/products/redlab-hugo/) |
-|:---:|:---:|:---:|
-| **Hugo Mega Bundle**  | **Phantom**  | **Red Lab**  |
-| [![northendlab](https://gethugothemes.com/wp-content/uploads/2019/11/Blogplate-Blog-Template.png)](https://gethugothemes.com/products/northendlab/) | [![Influencer](https://gethugothemes.com/wp-content/uploads/2019/11/Influencer.png)](https://gethugothemes.com/products/influencer-hugo/) | [![Vex](https://gethugothemes.com/wp-content/uploads/edd/2019/07/Vex.jpg)](https://gethugothemes.com/products/vex-hugo-theme/) |
-| **Northendlab** | **Influencer** | **Vex** |
-| [![Timer](https://gethugothemes.com/wp-content/uploads/edd/2019/07/Timer.jpg)](https://gethugothemes.com/products/timer-hugo-theme/) | [![Parsa](https://gethugothemes.com/wp-content/uploads/edd/2019/07/parsa-768x576.jpg)](https://gethugothemes.com/products/parsa-hugo-theme/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
-| **Timer** | **Parsa** | **More Hugo Themes** |
+### Update the theme
+
+If you have installed the theme as a git submodule, you can update the theme by issuing the following command inside your project folder.
+
+```
+git submodule update --remote --rebase
+```
+
+If you have cloned the theme, you can run `git pull` inside the theme folder.
+
+## Configuration
+
+### Menu
+
+The top menu uses [Hugo Menus](https://gohugo.io/content-management/menus/), with the name of the menu being `main`. To turn on the menu, follow the steps there - you can either add something like this to the front-matter of your pages:
+
+```
+---
+menu: "main"
+---
+```
+
+... or you can add a menu section to your `config` file:
+
+```
+sectionPagesMenu = "main"
+```
+
+Or if you want more control, add a specific entry for each item in your menu:
+
+```
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = 0
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/posts/"
+    weight = 0
+```
+
+For menu internationalization/translation, see [Multilingual Mode: Menus](https://gohugo.io/content-management/multilingual/#menus).
+
+### Internationalisation (i18n)
+
+Tale supports using other languages than English. Language files for the texts Tale uses are provided in the `i18n` directory. The default language is English. To switch languages, add the key `defaultContentLanguage` to your `config.toml` file. For example:
+
+```
+defaultContentLanguage = "nl"
+```
+
+To translate texts your site uses, add an `i18n` folder to your site.
+
+Feel free to submit pull requests for other translations of Tale's texts.
+
+[Hugo documentation for multilingual sites](//gohugo.io/content-management/multilingual/)
+
+### Custom summaries
+
+Tale allows for writing the summary of your posts manually by setting the `summary` variable in the page frontmatter. If this variable is not set, the summary that Hugo automatically generates will be used.
+
+### Taxonomies
+
+Tale has basic support for taxonomies. Taxonomy and terms pages will be generated when you have defined taxonomies, but you need to include links to these pages yourself. For example, you can add a link to a taxonomy page in `header-menu.html`.
+
+### Placeholder partials
+
+The theme contains placeholder partials to make the theme more flexible and easier to adapt to your site without having to change the theme itself. These are:
+
+- `single/header.html`
+- `single/footer.html`
+
+These are included in the template for a single post, at the top of the post (below the title) and at the bottom of the post, respectively. These can be used, for example, to include additional information about the post author or for related posts. Create a file `/layouts/partials/single/header.html` or `footer.html` on your own site to have it included.
+
+- `index/introduction.html`
+
+This partial is included at the top of the list of posts on the index page, allowing you to add an introduction to your site.
+
+### Copyright message
+
+The copyright message in the footer uses the name of the author of the site, as defined in `config.toml`. For example:
+
+```
+[Author]
+    name = "Emiel"
+```
+
+### Additional CSS files
+
+The theme can load additional CSS files for you, e.g. to override some of the styles, or the CSS that goes with a component that you're using. To add additional CSS files, put these files in the `static` folder of your site and add the `css` parameter to `config.toml`, like so:
+
+```
+[Params]
+css = ["custom.css"]
+```
+
+To load multiple CSS files, use the parameter like this:
+
+```
+[Params]
+css = ["custom.css", "custom2.css"]
+```
+
+## Acknowledgments
+
+Thanks
+
+- to [Chester How](//github.com/chesterhow) for creating the original [Tale theme for Jekyll](https://chesterhow.github.io/tale/),
+- to [onedrawingperday](//github.com/onedrawingperday), [bep](//github.com/bep) and [digitalcraftsman](//github.com/digitalcraftsman) for their help in getting the theme working correctly with Hugo,
+- to [lucperkins](https://github.com/lucperkins) for the [Fresh theme](https://github.com/lucperkins/hugo-fresh) from which I used some useful snippets of code.
+
+## License
+See [LICENSE](https://github.com/EmielH/tale-hugo/blob/master/LICENSE).
