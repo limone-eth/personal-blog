@@ -7,6 +7,8 @@ image_webp = ""
 title = "Idea vs Execution: l'importanza della cultura aziendale"
 
 +++
+![](/images/pexels-canva-studio-3153201.jpg)
+
 _To me, ideas are worth nothing unless executed. They are just a multiplier. Execution is worth millions._
 
 _- Steve Jobs_  
