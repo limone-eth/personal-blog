@@ -29,7 +29,7 @@ Brian Chesky, CEO di AirBnB, crede infatti che **una forte cultura aziendale fac
 
 Il valore più importante che caratterizza il colosso americano è sicuramente il **senso di comunità**.
 
-Come ogni cliente di AirBnB deve provare immediatamente un senso di appartenenza nell’appartamento che ha appena affittato, gli impiegati dell’azienda devono avere un grande senso di appartenenza al luogo di lavoro. Devono essere loro stessi dei potenziali host di appartamenti, sostenendo ospitalità e diversità. Persone curiose, ottimiste e gioiose, capaci eventualmente di imparare dai loro stessi sbagli. Essere aperti a nuove idea, disposte a superare gli ostacoli ed entusiaste nel riprovarci. Solo così sono in grado di accrescere il valore dei compagni e dell’azienda.
+Come ogni cliente di AirBnB deve provare immediatamente un senso di appartenenza nell’appartamento che ha appena affittato, gli impiegati dell’azienda devono avere un grande senso di appartenenza al luogo di lavoro. Devono essere loro stessi dei potenziali host di appartamenti, sostenendo ospitalità e diversità. Persone curiose, ottimiste e gioiose, capaci eventualmente di imparare dai loro stessi sbagli. Essere aperte a nuove idea, disposte a superare gli ostacoli ed entusiaste nel riprovarci. Solo così sono in grado di accrescere il valore dei compagni e dell’azienda.
 
 ## L'esperienza lavorativa
 
