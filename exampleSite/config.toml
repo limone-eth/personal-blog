@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "tale"
-title = "Kross"
+title = "Bootstrappers"
 [[menu.main]]
 URL = "about"
 name = "About"
