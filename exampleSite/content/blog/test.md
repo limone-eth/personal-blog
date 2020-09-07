@@ -11,10 +11,10 @@ title = "Idea vs Execution: l'importanza della cultura aziendale"
 
 _To me, ideas are worth nothing unless executed. They are just a multiplier. Execution is worth millions._
 
-_- Steve Jobs_  
-   
-Quando parliamo delle aziende più innovative al mondo, i famosi “unicorni”, siamo molto affascinati dalle fantastiche idee alla loro base. Diamo quindi molta rilevanza all’idea, non considerando **l’importanza del fattore “esecuzione”**. Questo fattore è in realtà più importante dell’idea stessa e dipende direttamente dal talento del team e/o delle persone che trasformano l’idea in realtà. Un’idea mediocre eseguita benissimo solitamente ha più successo di un’idea fantastica eseguita nel modo sbagliato.  
-   
+_- Steve Jobs_
+
+Quando parliamo delle aziende più innovative al mondo, i famosi “unicorni”, siamo molto affascinati dalle fantastiche idee alla loro base. Diamo quindi molta rilevanza all’idea, non considerando **l’importanza del fattore “esecuzione”**. Questo fattore è in realtà più importante dell’idea stessa e dipende direttamente dal talento del team e/o delle persone che trasformano l’idea in realtà. Un’idea mediocre eseguita benissimo solitamente ha più successo di un’idea fantastica eseguita nel modo sbagliato.
+
 Per ottenere un’ottima esecuzione bisogna avere un ottimo team a disposizione e un buon clima di lavoro. Ciò corrisponde allo **sviluppo di una cultura aziendale che aiuti tutti ad esprimere al meglio il proprio talento**. Un esempio in tal senso è AirBnB.
 
 # Il caso AirBnB
@@ -33,9 +33,8 @@ Come ogni cliente di AirBnB deve provare immediatamente un senso di appartenenza
 
 ## L'esperienza lavorativa
 
-  
-La cultura ha anche impatto sulla vita negli uffici di AirBnB, dove alle persone è concesso di lavorare dove preferiscono (che sia nella biblioteca, nella mensa o anche a casa loro). Le sale riunioni, invece di essere tradizionali, sono state ripensate come vere e proprie stanze ricopiate da alcuni dei più famosi appartamenti presenti sulla piattaforma. L’idea venne ad uno dei due founder quando si ritrovò dentro IKEA, in una di quelle stanze pre-arredate per mostrare ai clienti l’effetto che avrebbe fatto nelle loro case. Fare una riunione in AirBnB vuol dire riunirsi in una stanza che replica un appartamento di Parigi, o ancor meglio la casa di Frank Sinatra a Palm Springs (che è in affitto sul loro sito).  
-   
-Inoltre tra i benefit aziendali, ogni impiegato riceve 2000$ l’anno per soggiornare in uno degli appartamenti affittati dall’azienda. Questo per far si che **gli impiegati si sentano sempre collegati ai clienti**.  
-   
-Non ha caso, in un sondaggio condotto di recente da Glassdoor, AirBnb ha scalzato Google dal suo record di “**miglior posto di lavoro al mondo**” e il suo CEO, Brian Chesky, ha ottenuto il 97% di valutazioni positive dai suoi impiegati.
+La cultura ha anche impatto sulla vita negli uffici di AirBnB, dove alle persone è concesso di lavorare dove preferiscono (che sia nella biblioteca, nella mensa o anche a casa loro). Le sale riunioni, invece di essere tradizionali, sono state ripensate come vere e proprie stanze ricopiate da alcuni dei più famosi appartamenti presenti sulla piattaforma. L’idea venne ad uno dei due founder quando si ritrovò dentro IKEA, in una di quelle stanze pre-arredate per mostrare ai clienti l’effetto che avrebbe fatto nelle loro case. Fare una riunione in AirBnB vuol dire riunirsi in una stanza che replica un appartamento di Parigi, o ancor meglio la casa di Frank Sinatra a Palm Springs (che è in affitto sul loro sito).
+
+Inoltre tra i benefit aziendali, ogni impiegato riceve 2000$ l’anno per soggiornare in uno degli appartamenti affittati dall’azienda. Questo per far si che **gli impiegati si sentano sempre collegati ai clienti**.
+
+Non a caso, in un sondaggio condotto di recente da Glassdoor, AirBnb ha scalzato Google dal suo record di “**miglior posto di lavoro al mondo**” e il suo CEO, Brian Chesky, ha ottenuto il 97% di valutazioni positive dai suoi impiegati.
