@@ -54,12 +54,6 @@ education:
   - title: Bachelor's Degree in Computer Systems & Engineering
     year: 2015-2018
     academy: University La Sapienza of Rome
-  - title: Higher Secondary Certificat
-    year: "2000"
-    academy: Cardiff School
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
 service:
   enable: true
   title: Services
