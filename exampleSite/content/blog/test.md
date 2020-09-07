@@ -1,8 +1,8 @@
 +++
-author = ""
+author = "Simone Staffa"
 date = 2020-09-06T22:00:00Z
 description = ""
-image = ""
+image = "/images/pexels-canva-studio-3153201.jpg"
 image_webp = ""
 title = "Idea vs Execution: l'importanza della cultura aziendale"
 
