@@ -51,7 +51,7 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
-URL = "#"
+URL = "www.google.it"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
