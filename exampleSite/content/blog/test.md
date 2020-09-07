@@ -29,13 +29,13 @@ Brian Chesky, CEO di AirBnB, crede infatti che **una forte cultura aziendale fac
 
 Il valore più importante che caratterizza il colosso americano è sicuramente il **senso di comunità**.
 
-Come ogni cliente di AirBnB deve provare immediatamente un senso di appartenenza nell’appartamento che ha appena affittato, gli impiegati dell’azienda devono avere un grande senso di appartenenza al luogo di lavoro. Devono essere loro stessi dei potenziali host di appartamenti, devono essere ospitali e sostenere la diversità. Persone curiose, ottimiste e gioiose, capaci eventualmente di imparare dai loro stessi sbagli. Essere aperti a nuove idea, disposte a superare gli ostacoli ed entusiaste nel riprovarci. Solo così sono in grado di accrescere il valore dei compagni e dell’azienda.
+Come ogni cliente di AirBnB deve provare immediatamente un senso di appartenenza nell’appartamento che ha appena affittato, gli impiegati dell’azienda devono avere un grande senso di appartenenza al luogo di lavoro. Devono essere loro stessi dei potenziali host di appartamenti, sostenendo ospitalità e diversità. Persone curiose, ottimiste e gioiose, capaci eventualmente di imparare dai loro stessi sbagli. Essere aperti a nuove idea, disposte a superare gli ostacoli ed entusiaste nel riprovarci. Solo così sono in grado di accrescere il valore dei compagni e dell’azienda.
 
 ## L'esperienza lavorativa
 
   
 La cultura ha anche impatto sulla vita negli uffici di AirBnB, dove alle persone è concesso di lavorare dove preferiscono (che sia nella biblioteca, nella mensa o anche a casa loro). Le sale riunioni, invece di essere tradizionali, sono state ripensate come vere e proprie stanze ricopiate da alcuni dei più famosi appartamenti presenti sulla piattaforma. L’idea venne ad uno dei due founder quando si ritrovò dentro IKEA, in una di quelle stanze pre-arredate per mostrare ai clienti l’effetto che avrebbe fatto nelle loro case. Fare una riunione in AirBnB vuol dire riunirsi in una stanza che replica un appartamento di Parigi, o ancor meglio la casa di Frank Sinatra a Palm Springs (che è in affitto sul loro sito).  
    
-Inoltre tra i benefit aziendali, ogni impiegato riceve 2000$ l’anno per soggiornare in uno degli appartamenti affittati dall’azienda. Questo per far si che gli impiegati si sentano sempre collegati ai clienti.  
+Inoltre tra i benefit aziendali, ogni impiegato riceve 2000$ l’anno per soggiornare in uno degli appartamenti affittati dall’azienda. Questo per far si che **gli impiegati si sentano sempre collegati ai clienti**.  
    
-Non ha caso, in un sondaggio condotto di recente da Glassdoor, AirBnb ha scalzato Google dal suo record di “miglior posto di lavoro al mondo” e il suo CEO, Brian Chesky, ha ottenuto il 97% di valutazioni positive dai suoi impiegati.
+Non ha caso, in un sondaggio condotto di recente da Glassdoor, AirBnb ha scalzato Google dal suo record di “**miglior posto di lavoro al mondo**” e il suo CEO, Brian Chesky, ha ottenuto il 97% di valutazioni positive dai suoi impiegati.
