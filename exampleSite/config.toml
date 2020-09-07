@@ -20,8 +20,8 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+address = ""
+author = "Simone Staffa"
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
 email = "simonestaffa96@gmail.com"
