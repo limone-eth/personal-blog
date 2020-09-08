@@ -2,7 +2,6 @@
 author = ""
 date = 2020-09-07T22:00:00Z
 description = ""
-draft = true
 image = ""
 image_webp = ""
 title = "La definizione di Startup"
