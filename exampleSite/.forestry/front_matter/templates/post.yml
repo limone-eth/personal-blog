@@ -23,4 +23,5 @@ fields:
   label: description
   description: meta description
 pages:
+- exampleSite/content/blog/la-definizione-di-startup.md
 - exampleSite/content/blog/test.md
